@@ -1,0 +1,23 @@
+body {
+    background-image: url("../images/1.jpeg");
+}
+
+.contact {
+    background-color: white;
+}
+
+.body1 {
+    margin-top: 80px;
+}
+
+.body2{
+    margin-top: 80px;
+}
+
+h3 {
+    text-align: center;
+}
+.carousel-item {
+    height:650px;
+}
+
