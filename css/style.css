@@ -1,6 +1,7 @@
 body {
-    background-image: url("../images/1.jpeg");
+    background-color: lightgrey;
 }
+
 
 .contact {
     background-color: white;
@@ -21,3 +22,60 @@ h3 {
     height:650px;
 }
 
+.container0 {
+    background-clip: lightgray;
+}
+
+.modal-content {
+    background-color:lightgrey;
+}
+
+.modal-content h1 {
+    background-color: lightgrey;
+}
+
+.carousel h3 {
+    font-family: 'lobster', cursive;
+    text-shadow: 4px 6px 6px rgba(150, 150, 150, 1);    
+}
+/*social*/
+
+.socials li a {
+    color:black;
+    margin:px;
+}
+
+.socials li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.socials li a:hover {
+    color:lightgrey;
+}
+
+
+/* Ties CSS */
+.container1, .card {
+    background-color: #e9ecef;
+}
+
+.container2 img{
+    width: 100%;
+}
+
+.container h1 {
+    font-family: 'Lobster', cursive;
+    text-shadow: 4px 6px 6px rgba(150, 150, 150, 1);
+}
+    
+
+
+
+/* background img tool might need later 
+.class{
+    background: url("../images/tie3.jpg");
+    background-size: cover;
+    height:absolute;
+}
+*/
