@@ -38,6 +38,10 @@ h3 {
     font-family: 'lobster', cursive;
     text-shadow: 4px 6px 6px rgba(150, 150, 150, 1);    
 }
+
+.footer {
+    padding-left:100;
+}
 /*social*/
 
 .socials li a {
